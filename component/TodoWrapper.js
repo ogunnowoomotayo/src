@@ -1,6 +1,6 @@
 
  import React, {useState} from 'react';
- import TodoForm from './component/TodoForm'
+ import TodoForm from './TodoForm'
 
  
  const TodoWrapper = () => {
